@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>História - ^oOC||^ GAMING PLAY FULL</title>
+  <style>
+    body {
+      background-color: #0a0a0a;
+      color: #fff;
+      font-family: 'Orbitron', sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
+    header {
+      background: linear-gradient(90deg, #ff0000, #660000);
+      padding: 20px;
+      font-size: 2em;
+      font-weight: bold;
+      border-bottom: 3px solid #fff;
+    }
+    p {
+      max-width: 800px;
+      margin: 20px auto;
+      line-height: 1.6;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #aaa;
+      padding-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>História do Clã</header>
+  <p>O clã nasceu em 2008, na Zona Leste de São Paulo, jogando em lan houses simples. O nome “Os Causadores” surgiu porque onde vocês entravam, o servidor tremia. Com o tempo, o grupo cresceu, ganhou respeito nas comunidades de FPS e evoluiu para ^oOC||^ GAMING PLAY FULL, com servidores próprios, vídeos e uma comunidade ativa.</p>
+  <footer>© 2026 Os Causadores - Zona Leste SP</footer>
+</body>
+</html>

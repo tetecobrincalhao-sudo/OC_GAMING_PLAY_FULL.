@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>^oOC||^ GAMING PLAY FULL</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .sidebar {
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 200px;
+      height: 100%;
+      background-color: #1a1a1a;
+      border-right: 3px solid #ff0000;
+      padding-top: 20px;
+    }
+    .sidebar a {
+      display: block;
+      color: #fff;
+      padding: 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .sidebar a:hover {
+      background-color: #ff0000;
+    }
+    .content {
+      margin-left: 220px;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>^oOC||^ GAMING PLAY FULL</header>
+
+  <!-- Menu lateral -->
+  <div class="sidebar">
+    <a href="index.html">Início</a>
+    <a href="membros.html">Membros</a>
+    <a href="historia.html">História</a>
+  </div>
+
+  <!-- Conteúdo principal -->
+  <div class="content">
+    <img src="poster_oc.jpg" alt="Pôster do Clã Os Causadores">
+    <footer>© 2026 Os Causadores - Zona Leste SP</footer>
+  </div>
+</body>
+</html><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>^oOC||^ GAMING PLAY FULL</title>
+  <link rel="stylesheet" href="style.css">
+</head>
